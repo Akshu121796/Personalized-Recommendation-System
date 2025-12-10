@@ -8,10 +8,6 @@ from recommender import (
     get_similar_items,
 )
 from ui.components import load_css, render_card, render_section_title
-import os
-st.write("Files in assets/images:", os.listdir("assets/images"))
-
-st.image("assets/images/earbuds.jpg")
 
 st.set_page_config(page_title="TrendMatrix – Personalized Recommendations", layout="wide")
 
