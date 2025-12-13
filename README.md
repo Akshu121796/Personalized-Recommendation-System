@@ -7,9 +7,9 @@ It demonstrates how real-world recommendation systems handle personalization, co
 
 ---
 ## 🚀 Live Demo:
-```
+
     https://personalized-recommendation-system-1.streamlit.app/
-```
+
 ---
 ## ✨ Features
 
