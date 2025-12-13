@@ -28,6 +28,7 @@ It demonstrates how real-world recommendation systems handle personalization, co
 
 ## 🗂 Project Structure
 
+```
 trendmatrix/
 │
 ├── app.py                  # Streamlit entry point
@@ -51,7 +52,7 @@ trendmatrix/
 └── .streamlit/
     └── secrets.toml        # App configuration
 
-
+```
 ---
 
 ## 🚀 Run Locally
