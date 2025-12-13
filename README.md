@@ -30,26 +30,27 @@ It demonstrates how real-world recommendation systems handle personalization, co
 
 trendmatrix/
 │
-├── app.py                     
-├── recommender.py             
-├── db.py                      
+├── app.py                  # Streamlit entry point
+├── recommender.py          # Recommendation logic
+├── db.py                   # Database & user interactions
 ├── requirements.txt
 ├── README.md
 │
 ├── data/
-│   └── items.csv              
+│   └── items.csv           # Item metadata
 │
 ├── ui/
-│   ├── components.py          
-│   ├── card.html
-│   └── styles.css             
+│   ├── components.py       # UI helper functions
+│   ├── card.html           # HTML card template
+│   └── styles.css          # App styling
 │
 ├── assets/
 │   ├── logo.png
-│   └── images/
+│   └── images/             # Product images
 │
 └── .streamlit/
-    └── secrets.toml
+    └── secrets.toml        # App configuration
+
 
 ---
 
@@ -81,3 +82,9 @@ Python
 • CSS
 
 ---
+
+**If you find this project useful, consider giving it a ⭐ on GitHub.**
+
+
+**Thankyou!!!**
+
