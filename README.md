@@ -1,6 +1,6 @@
 # Personalized-Recommendation-System
 
-<img width="170" height="141" alt="logo" src="https://github.com/user-attachments/assets/e841450b-f66c-4692-8335-79165065a2eb" /> *TrendMatrix*
+<img width="70" height="40" alt="logo" src="https://github.com/user-attachments/assets/e841450b-f66c-4692-8335-79165065a2eb" /> ***TrendMatrix***
 
 **TrendMatrix** is a personalized recommendation web app built with **Python and Streamlit**.
 It demonstrates how real-world recommendation systems handle personalization, cold-start users, and UI robustness in a deployable application.
