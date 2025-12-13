@@ -6,7 +6,11 @@
 It demonstrates how real-world recommendation systems handle personalization, cold-start users, and UI robustness in a deployable application.
 
 ---
-
+## 🚀 Live Demo:
+```
+    https://personalized-recommendation-system-1.streamlit.app/
+```
+---
 ## ✨ Features
 
 * Content-based recommendations using item metadata
