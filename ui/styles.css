@@ -1,0 +1,118 @@
+.stApp {
+    background: #030712;
+    color: #e5e7eb;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Main title styling */
+h3 {
+    color: #ffffff !important;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Caption styling */
+.stCaption {
+    color: #ffffff !important;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+
+/* Custom caption */
+.app-caption {
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    line-height: 1.4;
+}
+
+/* Section title */
+.pp-section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 2.5rem 0 1.2rem 0;
+    color: #ffffff;
+    border-bottom: 4px solid #2563eb;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Card */
+.pp-card {
+    background: #020617;
+    border-radius: 16px;
+    padding: 16px;
+    border: 1px solid rgba(148, 163, 184, 0.35);
+    box-shadow: 0 16px 40px rgba(15,23,42,0.9);
+    transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+}
+
+.pp-card:hover {
+    transform: translateY(-5px);
+    border-color: #60a5fa;
+    box-shadow: 0 22px 60px rgba(37,99,235,0.5);
+}
+
+
+.pp-card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 12px;
+}
+
+
+.pp-card-category {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9ca3af;
+    margin-bottom: 3px;
+}
+
+.pp-card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #f9fafb;
+    margin-bottom: 6px;
+}
+
+.pp-card-desc {
+    font-size: 0.9rem;
+    color: #cbd5e1;
+    opacity: 0.9;
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.pp-tag {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 999px;
+    background: rgba(37,99,235,0.2);
+    border: 1px solid rgba(59,130,246,0.6);
+    color: #bfdbfe;
+    font-size: 0.85rem;
+    margin-right: 4px;
+    margin-top: 4px;
+}
+
+/* Button styling for dark theme */
+.stButton button {
+    color: #ffffff;
+    background-color: #020617;
+    border: 1px solid #60a5fa;
+}
+
+.stButton button:hover {
+    background-color: #1e293b;
+    border-color: #3b82f6;
+}
